@@ -6,7 +6,7 @@ md`# Untitled`
 
 function _chart(d3,runtimeData)
 {
-  const width = 1000;
+  const width = 400;
   const height = 800;
 
   const svg = d3.create("svg")
